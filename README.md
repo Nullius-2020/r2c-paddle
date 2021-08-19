@@ -1,6 +1,6 @@
 # From Recognition to Cognition: Visual Commonsense Reasoning (cvpr 2019 oral)
 
-This repository contains data and PyTorch code for the paper [From Recognition to Cognition: Visual Commonsense Reasoning (arxiv)](https://visualcommonsense.com). For more info, check out the project page at [visualcommonsense.com](https://visualcommonsense.com). For updates, or to ask for help, [check out and join our google group!!](https://groups.google.com/forum/#!forum/visualcommonsense/join)
+This repository contains data and Paddle code for the paper [From Recognition to Cognition: Visual Commonsense Reasoning (arxiv)](https://visualcommonsense.com). For more info, check out the project page at [visualcommonsense.com](https://visualcommonsense.com). For updates, or to ask for help, [check out and join our google group!!](https://groups.google.com/forum/#!forum/visualcommonsense/join)
 
 ![visualization](https://i.imgur.com/5XTaEkx.png "Visualization")
 
